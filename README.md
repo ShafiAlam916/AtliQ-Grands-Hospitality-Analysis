@@ -4,7 +4,7 @@
 
 ## 🎥 Presentation Video
 👉 **Watch the full project walkthrough here:**  
-[Presentation Video Link](https://www.linkedin.com/posts/mdshafialam_powerbi-revenuemanagement-hospitalityanalytics-activity-7431551146768633856--EwE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFANRrUB8YOiQ7CrZlkNSWAytjyAKghfpAs)
+[Presentation Video Link](https://www.linkedin.com/posts/mdshafialam_codebasicsvirtualinternship-powerbi-dataanalytics-ugcPost-7454874340778512384-33zR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFANRrUB8YOiQ7CrZlkNSWAytjyAKghfpAs)
 
 ---
 
